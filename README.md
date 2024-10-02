@@ -3,7 +3,7 @@ This project analyzes the Bike Sharing Dataset to understand the impact of weath
 
 ## Installation
 1. Clone the repository
-   git clone https://github.com/nasrull4/Project_Analisis_Data.git
+   -git clone https://github.com/nasrull4/Project_Analisis_Data.git
 2. Setup Environment
    cd Project_Analisis_Data
 3. Install Required Packages
