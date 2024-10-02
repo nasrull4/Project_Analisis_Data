@@ -19,3 +19,17 @@ This project analyzes the Bike Sharing Dataset to understand the impact of weath
    streamlit run ./dashboard/dashboard.py
    http://localhost:8501
    ```
+## Project Structure
+   ```
+    submission
+├───dashboard
+| ├───main_data.csv
+| └───dashboard.py
+├───data
+| ├───data_1.csv
+| └───data_2.csv
+├───notebook.ipynb
+├───README.md
+└───requirements.txt
+└───url.txt
+```
